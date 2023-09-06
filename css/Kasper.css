@@ -232,7 +232,7 @@ header .container nav .form i {
 .landing {
     background-color: #333;
     background-size: cover;
-    background-image: url(/image/landing.jpg);
+    background-image: url(./image/landing.jpg);
     min-height: 100vh;
     position: relative;
 }
@@ -1116,7 +1116,7 @@ header .container nav .form i {
 .footer {
     padding-top: calc(var(--main-padding) / 2) ;
     padding-bottom: calc(var(--main-padding) / 2) ;
-    background-image : url(/image/subscribe.jpg);
+    background-image : url(./image/subscribe.jpg);
     text-align: center;
     color: white;
     position: relative;
